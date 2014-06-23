@@ -20,6 +20,7 @@ setup(
             'templates/rbpriority/*.html',
         ],
     },
+    scripts=['bin/rb-priority-alert'],
     install_requires=[
         'enum34'
         ]
